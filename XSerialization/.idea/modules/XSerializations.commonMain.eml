@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="Kotlin SDK" jdk_type="KotlinSDK">
+	<output-test url="file://$MODULE_DIR$/../../out/test/XSerializations.commonMain"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../src/commonMain"/>
+	<lib name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-metadata:1.0.0" scope="RUNTIME"/>
+	<lib name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-metadata:1.0.0" scope="RUNTIME"/>
+	<levels>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.10" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-metadata:1.0.0" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-metadata:1.0.0" value="project"/>
+	</levels>
+</component>
